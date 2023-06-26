@@ -1,17 +1,26 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Proceso de personal y evaluación de desempeño',
+    descripcionCurso:
+      'Este componente formativo aborda aspectos generales y claves sobre la gestión del talento humano en la empresa, específicamente en procesos de vinculación-desvinculación y administración de las áreas de gestión del talento humano. De igual manera, se orientarán los contenidos a la evaluación del desempeño del personal para la optimización de los talentos y las competencias de empleados, la cualificación de actividades, procedimientos y procesos organizacionales.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
+        imagen: require('@/assets/curso/portada/a1.svg'),
       },
       {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/a2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/a3.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-4', 'd-none', 'd-lg-block'],
+        imagen: require('@/assets/curso/portada/a4.svg'),
       },
     ],
   },
