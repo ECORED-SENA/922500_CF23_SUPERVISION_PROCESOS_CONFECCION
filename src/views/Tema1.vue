@@ -35,7 +35,6 @@
           span.fst-italic  Saltos graduales en el área de gestión del talento humano
         .tabla-a.mb-5
           table
-            caption Leyenda de la tabla
             thead(style="border-top: 0px; background-color: #FC9264")
               tr
                 th ANTES
