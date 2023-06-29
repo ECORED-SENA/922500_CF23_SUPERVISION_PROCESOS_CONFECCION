@@ -19,13 +19,13 @@
         .acordion-2
           AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
             div(titulo="Área de Gestión Financiera")
-              p.mb-0
+              p.mb-0 Las cantidades de dinero con que se realizan las transacciones de compra, venta y demás, son muy importantes, debido a que representan ese mayor o menor flujo y velocidad, con que la empresa cuenta para sus actividades mercantiles.
             div(titulo="Área de Recursos Humanos")
-              p.mb-0
+              p.mb-0 Se menciona mucho que unos de los activos más importantes de las empresas (si no el que más) son las personas, en esa medida gana mucha relevancia el análisis de cómo es su desempeño, en lo que tiene que ver en su relacionamiento con las demás personas.
             div(titulo="Mercadeo y Ventas")
               p.mb-0 Estos están estrechamente vinculados a los procesos y la operación de la empresa en su conjunto. Los indicadores operativos se asignan a los equipos de trabajo o a las personas directamente, involucrando a cada empleado de la empresa de tal manera que contribuyan activamente a los objetivos estratégicos de la organización, para seguir con nuestro ejemplo en este caso propondremos un indicador operativo como el número de productos fabricados por módulo o por persona, en donde también tendría como objetivo aumentar, para asegurar el cumplimiento de los indicadores tácticos y estratégicos.
             div(titulo="Área de Producción")
-              p.mb-0
+              p.mb-0 Todas las organizaciones del mundo funcionan para satisfacer necesidades y expectativas de los clientes, para cumplir ese objetivo deben realizar actividades de investigación, desarrollo y otros procesos encargados de la transformación de la materia prima en productos con valor agregado para que sean competentes en el mercado.
     .row.justify-content-center.mb-5
       .col-lg-6.mb-lg-0.mb-3
         .p-5(style="background-color: #FEE7DD").h-100
@@ -50,7 +50,7 @@
                   h4.mb-1 Desempeño de áreas funcionales
                   p.mb-0.text-small Le invitamos a consultar el siguiente recurso donde se presentan algunos ejemplo de desempeño de las diferente áreas.		
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://docs.google.com/document/d/1wD3oByzOhsH4c0oWnUb4DWNBc0hmCOhrMDWG0-nCtyo/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Anexo_4_DesempenoDeAreasFuncionales.pdf')" target="_blank" type="application/pdf")
                     span Descargar
                     i.fas.fa-file-download
       .col-lg-4: img(src='@/assets/curso/temas/tema7/5.png', alt='')

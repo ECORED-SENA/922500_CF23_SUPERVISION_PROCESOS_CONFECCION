@@ -55,7 +55,7 @@
                   h4.mb-1 Modelos de comunicación y liderazgo
                   p.mb-0.text-small Le invitamos a consultar el siguiente recurso descargable que le permitirá profundizar en la temática de los procesos de personal en las organizaciones.			
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://docs.google.com/document/d/1wD3oByzOhsH4c0oWnUb4DWNBc0hmCOhrMDWG0-nCtyo/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Anexo_5_ModelosDeComunicacionYLiderazgo.pdf')" target="_blank" type="application/pdf")
                     span Descargar
                     i.fas.fa-file-download
       .col-lg-4: img(src='@/assets/curso/temas/tema8/3.svg', alt='')

@@ -111,7 +111,7 @@
         //todo! Adjuntar anexo 
         .row.justify-content-center.mb-5
           .col-auto
-            a.anexo(href="https://drive.google.com/file/d/1eXU5VbhNu8QbPrB-FyskQ_X8tAIbkuHR/view" target="_blank")
+            a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Anexo_4_DesempenoDeAreasFuncionales.pdf')" target="_blank" type="application/pdf")
               .anexo__icono
                 img(src="@/assets/template/icono-xml.svg")
               .anexo__texto

@@ -71,9 +71,10 @@
                     h4.mb-1 Modalidades de contratos
                     p.mb-0.text-small Le invitamos a consultar el siguiente recurso descargable que le permitirá profundizar en las generalidades y aspectos clave sobre las modalidades de contratos de trabajo y los procesos de vinculación.		
                   .col-sm-auto
-                    a.boton.color-acento-botones(href="https://docs.google.com/document/d/1wD3oByzOhsH4c0oWnUb4DWNBc0hmCOhrMDWG0-nCtyo/edit?usp=sharing" target="_blank")
+                    a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Anexo_2_ModalidadesDeContratos.pdf')" target="_blank" type="application/pdf")
                       span Descargar
                       i.fas.fa-file-download
+                    
 
 
 
