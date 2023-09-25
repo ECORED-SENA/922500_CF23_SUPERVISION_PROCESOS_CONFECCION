@@ -30,7 +30,7 @@
               p.mb-0 Se deben definir los objetivos de la evaluación de desempeño de manera clara y coherente, basados en información relevante de cada trabajador, su puesto de trabajo y su labor. 
             li.d-flex.mb-0
               i.fas.fa-tshirt(style="color: #9B1F36")
-              p.mb- La evaluación de desempeño debe ser compromiso de todos en la organización, para tener un mayor aprovechamiento como herramienta de mejora y productividad.
+              p.mb-0 La evaluación de desempeño debe ser compromiso de todos en la organización, para tener un mayor aprovechamiento como herramienta de mejora y productividad.
             li.d-flex.mb-0
               i.fas.fa-tshirt(style="color: #9B1F36")
               p.mb-0 Quien cumpla con el papel de supervisor y evaluador debe servir de igual forma como consejero.
@@ -44,9 +44,8 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Tabla 5
-          br
-          span.fst-italic Indicadores
+          h5 Tabla 5.
+          span Indicadores
         .tabla-a.mb-5
           table
             thead(style="border-top: 0px; background-color: #FC9264")
@@ -96,10 +95,10 @@
           ul.lista-ul--color
             li.d-flex.mb-0
               i.fas.fa-tshirt(style="color: #9B1F36")
-              p.mb-0 La detección de necesidades de capacitación
+              p.mb-0 La detección de necesidades de capacitación.
             li.d-flex.mb-0
               i.fas.fa-tshirt(style="color: #9B1F36")
-              p.mb-0 La retroalimentación para una autoevaluación de rendimiento
+              p.mb-0 La retroalimentación para una autoevaluación de rendimiento.
             li.d-flex.mb-0
               i.fas.fa-tshirt(style="color: #9B1F36")
               p.mb-0 Empleados que cumplen o exceden lo esperado en el desarrollo de sus labores. 

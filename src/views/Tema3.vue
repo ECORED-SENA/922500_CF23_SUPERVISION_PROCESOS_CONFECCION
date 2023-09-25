@@ -70,11 +70,10 @@
     .row.justify-content-center.mb-5
       .col-lg-8
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 2
-          br
-          span.fst-italic Identificación de características personales en los candidatos
+          h5 Figura 2.
+          span Identificación de características personales en los candidatos
         img(src='@/assets/curso/temas/tema3/9.svg', alt='Esquema que muestra el mecanismo de identificación de características personales de candidatos así:<br><br>Características de la ejecución de tareas: inteligencia general, atención centrada en detalles, aptitud numérica, verbal y espacial, razonamiento inductivo o deductivo.<br><br>Características de interdependencia con otras áreas: atención dispersa y amplia, visión de conjunto, coordinación, espíritu de integración.<br><br>Características de interdependencia con otras personas: relaciones humanas, colaboración, cooperación, cociente emocional.<br><br>Características de interdependencia con la organización: conocimiento, habilidad, juicio, actitud.')
-    .row.justify-content-center.mb-5
+    .row.justify-content-center
       .col-lg-3.col-6.mb-lg-0.mb-3: img(src='@/assets/curso/temas/tema3/10.png', alt='')
       .col-lg-9
         p Si en una empresa se determina que la selección de personal será por competencias, estas deben estar alineadas con las competencias individuales de los candidatos y esto se logra a través de la recopilación de datos concentrados en definir dichas competencias individuales.
@@ -84,7 +83,7 @@
           br
           br
           | Dentro de las organizaciones, las competencias suelen estar jerarquizadas de la siguiente manera:
-        AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--red")
+        AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--red")
           div(titulo="Competencias esenciales")
             p.mb-0 Son determinadas por toda una organización, son construidas y poseen ventajas competitivas sobre las demás organizaciones; deberán poseer: el valor que perciben los clientes, diferenciación con los competidores, capacidad de expandirse.
           div(titulo="Competencias funcionales")
@@ -138,7 +137,7 @@
             p.mb-0 Recepción de las HV de los candidatos.
           li.d-flex.mb-1
             i.fas.fa-tshirt(style="color: #9B1F36")
-            p.mb-0 Preselección de los candidatos. Por lo general, en este punto, los candidatos deberán someterse a pruebas o tests que estipule la empresa que está en búsqueda de personal.
+            p.mb-0 Preselección de los candidatos. Por lo general, en este punto, los candidatos deberán someterse a pruebas o #[em tests] que estipule la empresa que está en búsqueda de personal.
           li.d-flex.mb-1
             i.fas.fa-tshirt(style="color: #9B1F36")
             p.mb-0 Selección de personal. En este punto, más que pruebas, se vuelve mucho más personalizado el proceso, como, por ejemplo, iniciar con entrevista y posteriormente pasar a la evaluación del encuentro. 
@@ -165,15 +164,14 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Tabla 3 
-          br
-          span.fst-italic Pros y contras de la entrevista de selección
+          h5 Tabla 3.
+          span Pros y contras de la entrevista de selección
         .tabla-a.mb-5
           table
             thead(style="border-top: 0px; background-color: #FC9264")
               tr
-                th PROS
-                th CONTRAS
+                th Pros
+                th Contras
             
             tbody.text-center
               tr
@@ -326,15 +324,14 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Tabla 4
-          br
-          span.fst-italic Cualificación y competencias
+          h5 Tabla 4.
+          span Cualificación y competencias
         .tabla-a.mb-5
           table
             thead(style="border-top: 0px; background-color: #FC9264")
               tr
-                th CUALIFICACIÓN
-                th COMPETENCIAS
+                th Cualificación 
+                th Componetencias 
             
             tbody.text-center
               tr
@@ -449,14 +446,11 @@
                   p.mb-0 Negociación y toma de decisiones
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0
-                li.d-flex.mb-0
-                  i.fas.fa-tshirt(style="color: #9B1F36")
                   p.mb-0 Otras que considere cada organización, de acuerdo con el puesto de trabajo
     p.mb-5(data-aos='fade-right') El uso de las herramientas de las que se valen los centros de evaluación depende de si las entrevistas son individuales o grupales y, también, de si necesitan de una medición cualitativa o cuantitativa. 
     .row.justify-content-center.mb-5.g-0
       .col-lg-6.mb-lg-0.mb-3
-        .p-5(style="background-color: #E8E8E8 ")
+        .p-5(style="background-color: #E8E8E8 ").h-100
           img(src='@/assets/curso/temas/tema3/27.svg', alt='' style="width: 104px").mb-4
           h4: span.color-acento-contenido Individuales
           p 
@@ -475,10 +469,10 @@
           ul.lista-ul--color
             li.d-flex.mb-3
               i.fas.fa-tshirt(style="color: #9B1F36")
-              p.mb-0 #[b Herramientas cuantitativas:] pruebas de situación, in-basket, pruebas de simulación en espacios de trabajo, entre otras. 
+              p.mb-0 #[b Herramientas cuantitativas:] pruebas de situación, #[em in-basket], pruebas de simulación en espacios de trabajo, entre otras. 
             li.d-flex.mb-3
               i.fas.fa-tshirt(style="color: #9B1F36")
-              p.mb-0 #[b Herramientas cualitativas:] grupos focales de discusión, técnicas de grupos nominales, pruebas con juego de roles y de outdoors. 
+              p.mb-0 #[b Herramientas cualitativas:] grupos focales de discusión, técnicas de grupos nominales, pruebas con juego de roles y de #[em outdoors.] 
     p.mb-5(data-aos='fade-right') Los nombres de estas pruebas dependen de las baterías o documentación adquirida por cada organización, no están sujetos exclusivamente a los propuestos; pero si se desea analizar cualitativa o cuantitativamente, dichas pruebas deben estar orientadas a estos enfoques.
     .row.justify-content-center.mb-5
       .col-lg-4.col-8: img(src='@/assets/curso/temas/tema3/29.png', alt='' )
@@ -491,9 +485,8 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Figura 3
-          br
-          span.fst-italic Actividades desde el reclutamiento hasta la selección
+          h5 Figura 3.
+          span Actividades desde el reclutamiento hasta la selección
         img(src='@/assets/curso/temas/tema3/30.svg', alt='Secuencia de recuadros que enuncian las actividades desde el reclutamiento hasta la selección, asi:<br>/br>Primer recuadro: Generar y desarrollar solicitudes de empleados.<br><br>Segundo recuadro: Localizar y reclutar candidatos.<br><br>Tercer recuadro: Evaluar y aceptar candidatos.<br><br>Cuarto recuadro: Tamizar y seleccionar candidatos.<br><br>Quinto recuadro: Administrar las admisiones.<br><br>Sexto recuadro: Orientar a los candidatos.')
     .row.justify-content-center.mb-5
       .col-lg-10

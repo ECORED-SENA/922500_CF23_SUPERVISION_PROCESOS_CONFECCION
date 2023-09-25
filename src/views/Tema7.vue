@@ -23,7 +23,7 @@
             div(titulo="Área de Recursos Humanos")
               p.mb-0 Se menciona mucho que unos de los activos más importantes de las empresas (si no el que más) son las personas, en esa medida gana mucha relevancia el análisis de cómo es su desempeño, en lo que tiene que ver en su relacionamiento con las demás personas.
             div(titulo="Mercadeo y Ventas")
-              p.mb-0 Estos están estrechamente vinculados a los procesos y la operación de la empresa en su conjunto. Los indicadores operativos se asignan a los equipos de trabajo o a las personas directamente, involucrando a cada empleado de la empresa de tal manera que contribuyan activamente a los objetivos estratégicos de la organización, para seguir con nuestro ejemplo en este caso propondremos un indicador operativo como el número de productos fabricados por módulo o por persona, en donde también tendría como objetivo aumentar, para asegurar el cumplimiento de los indicadores tácticos y estratégicos.
+              p.mb-0 Se pueden producir los mejores productos y servicios, e incluso a los mejores precios, pero si no se hace una buena gestión de relacionamiento con los clientes para que se conozcan las organizaciones y sus resultados se podría malograr todo el esfuerzo, y no obtener los resultados esperados.
             div(titulo="Área de Producción")
               p.mb-0 Todas las organizaciones del mundo funcionan para satisfacer necesidades y expectativas de los clientes, para cumplir ese objetivo deben realizar actividades de investigación, desarrollo y otros procesos encargados de la transformación de la materia prima en productos con valor agregado para que sean competentes en el mercado.
     .row.justify-content-center.mb-5

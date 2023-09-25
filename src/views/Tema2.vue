@@ -23,9 +23,8 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Tabla 2
-          br
-          span.fst-italic Saltos graduales en el área de gestión del talento humano
+          h5 Tabla 2.
+          span Saltos graduales en el área de gestión del talento humano
         .tabla-a.mb-5
           table
             caption Nota. Chiavenato (2020, p. 103).
@@ -65,24 +64,24 @@
       p.mb-5(data-aos='fade-right') Una vez se tiene decidido el enfoque bajo el cual se hará el respectivo reclutamiento de personal, se establecen las técnicas que permiten que este proceso se lleve a cabo. A continuación, se mencionan las más relevantes:
       .row.justify-content-center.mb-3
         .col-lg-4.mb-lg-0.mb-3
-          .tarjeta.p-3.d-flex.align-items-center(style="background-color: #FAD1D9")
+          .tarjeta.p-3.d-flex.align-items-center(style="background-color: #FAD1D9").h-100
             img(src='@/assets/curso/temas/tema2/4.svg', alt='' style="width: 66px").me-3
             p.mb-0 Anuncios en diarios informativos, revistas, artículos, Internet, entre otros que son fuentes de información para grandes sectores de interés. 
         .col-lg-4.mb-lg-0.mb-3
-          .tarjeta.p-4.d-flex.align-items-center(style="background-color: #FAD1D9")
+          .tarjeta.p-4.d-flex.align-items-center(style="background-color: #FAD1D9").h-100
             img(src='@/assets/curso/temas/tema2/5.svg', alt='' style="width: 66px").me-3
             p.mb-0 Agencias dedicadas a reclutamiento. 
         .col-lg-4.mb-lg-0.mb-3
-          .tarjeta.p-4.d-flex.align-items-center(style="background-color: #FAD1D9")
+          .tarjeta.p-4.d-flex.align-items-center(style="background-color: #FAD1D9").h-100
             img(src='@/assets/curso/temas/tema2/6.svg', alt='' style="width: 66px").me-3
             p.mb-0 Escuelas, universidades, asociaciones. 
       .row.justify-content-center.mb-5
         .col-lg-4.mb-lg-0.mb-3
-          .tarjeta.p-4.d-flex.align-items-center(style="background-color: #FAD1D9")
+          .tarjeta.p-4.d-flex.align-items-center(style="background-color: #FAD1D9").h-100
             img(src='@/assets/curso/temas/tema2/7.svg', alt='' style="width: 66px").me-3
             p.mb-0 Anuncios locales, carteles. 
         .col-lg-8.mb-lg-0.mb-3
-          .tarjeta.p-4.d-flex.align-items-center(style="background-color: #FAD1D9")
+          .tarjeta.p-4.d-flex.align-items-center(style="background-color: #FAD1D9").h-100
             img(src='@/assets/curso/temas/tema2/8.svg', alt='' style="width: 66px").me-3
             p.mb-0 Consultas de los archivos de las bases de datos o bancos de datos, dado que en muchas organizaciones, independientemente de que no necesiten nuevos talentos, hacen recopilación de aquellos interesados en formar parte por si se requiere. 
 

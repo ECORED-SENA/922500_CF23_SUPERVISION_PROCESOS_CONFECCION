@@ -34,7 +34,6 @@
             p.mb-0 Los datos solos o aislados no constituyen información, deben estar estructurados en una red o un sistema que les permita interactuar y convertirse en informes útiles.
     .row.justify-content-center.mb-5
       .col-lg-8.mb-lg-0.mb-3
-        p Sobre los procesos de comunicación en las empresas u organizaciones, tenga en cuenta aspectos como:
         AcordionA.mb-5(tipo="b" clase-tarjeta="tarjeta tarjeta--red")
           div(titulo="Frecuencia de uso")
             p.mb-0 Un sistema de comunicaciones o de información se ve justificado cuando la frecuencia con que se utiliza es alta y cuando los datos que transitan por allí son realmente utilizados, e intervienen el mejoramiento en la productividad y el cumplimiento de metas.

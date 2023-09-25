@@ -196,20 +196,20 @@ export default {
     {
       tema: 'Evaluación de desempeño',
       referencia:
-        'Chiavenato, I. (2020). Gestión del talento humano el nuevo papel de los recursos humanos en las organizaciones. McGraw-Hill.',
+        'Chiavenato, I. (2020). <em>Gestión del talento humano el nuevo papel de los recursos humanos en las organizaciones.</em> McGraw-Hill.',
       tipo: 'Libro Biblioteca SENA',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=9350&pg=264',
     },
     {
       tema: 'Evaluación de desempeño',
-      referencia: 'SENA. (2021). Formato evaluación del desempeño.',
+      referencia: 'SENA. (2021). <em>Formato evaluación del desempeño.</em>',
       tipo: 'Archivo Excel',
       link: '',
     },
     {
       tema: 'Canales de comunicación',
       referencia:
-        'EAE Business School. (2017). Medios y canales para la comunicación interna corporativa.',
+        'EAE Business School. (2017). <em>Medios y canales para la comunicación interna corporativa.</em>',
       tipo: 'Página web',
       link:
         'https://www.eae.es/actualidad/noticias/medios-y-canales-para-la-comunicacion-interna-corporativa',
@@ -217,14 +217,14 @@ export default {
     {
       tema: 'Canales de comunicación',
       referencia:
-        'Economía desde casa. (2021). La comunicación interna y sus tipos Economía de la empresa 157#. [Video] YouTube.',
+        'Economía desde casa. (2021). <em>La comunicación interna y sus tipos Economía de la empresa 157#.</em> [Video] YouTube.',
       tipo: 'Video YouTube',
       link: 'https://youtu.be/BcnNHFIaRgI',
     },
     {
       tema: 'Canales de comunicación',
       referencia:
-        'Arroyo Tovar, R. (2012). Habilidades gerenciales: desarrollo de destrezas, competencias y actitud. Ecoe Ediciones.',
+        'Arroyo Tovar, R. (2012). <em>Habilidades gerenciales: desarrollo de destrezas, competencias y actitud.</em> Ecoe Ediciones.',
       tipo: 'Libro Biblioteca SENA',
       link:
         'https://www-digitaliapublishing-com.bdigital.sena.edu.co/visor/29968',
@@ -350,108 +350,109 @@ export default {
   referencias: [
     {
       referencia:
-        'Actualícese. (2020). Contrato de trabajo y proceso de contratación laboral en Colombia. Actualícese.com.',
+        'Actualícese. (2020). <em>Contrato de trabajo y proceso de contratación laboral en Colombia.</em> Actualícese.com.',
       link: 'https://actualicese.com/contratacion-laboral/',
     },
     {
       referencia:
-        'Álvarez, G. (2015). Gestión de desvinculación forzada en masa, como mecanismo para evitar la protesta social de los trabajadores. Caso: Amazonic Mad S. R. L. Universidad Andina Simón Bolívar.',
+        'Álvarez, G. (2015). <em>Gestión de desvinculación forzada en masa, como mecanismo para evitar la protesta social de los trabajadores.</em> Caso: Amazonic Mad S. R. L. Universidad Andina Simón Bolívar.',
       link: 'http://repositorio.uasb.edu.bo/handle/54000/1076',
     },
     {
       referencia:
-        'Amo, A. (2019). Reclutamiento y selección de personal. Editorial Elearning S.L.',
+        'Amo, A. (2019). <em>Reclutamiento y selección de personal.</em> Editorial Elearning S.L.',
       link:
         'https://books.google.com.co/books?id=63flDwAAQBAJ&printsec=frontcover&dq=seleccion+de+personal&hl=es-419&sa=X&redir_esc=y#v=onepage&q&f=false',
     },
     {
       referencia:
-        'Arroyo Tovar, R. (2012). Habilidades gerenciales: desarrollo de destrezas, competencias y actitud–. Ecoe Ediciones',
+        'Arroyo Tovar, R. (2012). <em>Habilidades gerenciales: desarrollo de destrezas, competencias y actitud–.</em> Ecoe Ediciones',
       link:
         'https://www-digitaliapublishing-com.bdigital.sena.edu.co/visor/29968',
     },
     {
-      referencia: 'Avalo, Rosados, M.C (2016) ¿Cómo funciona la comunicación?',
+      referencia:
+        'Avalo, Rosados, M.C (2016) <em>¿Cómo funciona la comunicación?</em>',
       link:
         'http://www.marcocarlosavalos.com/comunicacin-organizacional/2016/4/27/6-cmo-funciona-la-comunicacin',
     },
     {
       referencia:
-        'Bizneo HR Software. (2019a). 6 desafíos de la gestión del capital humano en RR.HH. Bizneo blog.',
+        'Bizneo HR Software. (2019a). <em>>6 desafíos de la gestión del capital humano en RR.HH.</em Bizneo blog.',
       link:
         'https://www.bizneo.com/blog/6-retos-y-tendencias-de-la-gestion-de-recursos-humanos/',
     },
     {
       referencia:
-        'Bizneo HR Software. (2019b). Entrevista por competencias. ¿Qué son y qué tipos existen? Bizneo blog.',
+        'Bizneo HR Software. (2019b). <em>Entrevista por competencias. ¿Qué son y qué tipos existen?</em> Bizneo blog.',
       link: 'https://www.bizneo.com/blog/entrevista-por-competencias/',
     },
     {
       referencia:
-        'Chiavenato, I. (2020). Gestión del talento humano. El nuevo papel de los recursos humanos en las organizaciones. McGraw-Hill.',
+        'Chiavenato, I. (2020). Gestión del talento humano. <em>El nuevo papel de los recursos humanos en las organizaciones.</em> McGraw-Hill.',
       link: '',
     },
     {
       referencia:
-        'Chiavenato, A. (s.f.). Administración de recursos humanos El capital humano de las organizaciones, 5. ed. Mc Graw Hill Interamericana.',
+        'Chiavenato, A. (s.f.). <em>Administración de recursos humanos El capital humano de las organizaciones, 5. ed.</em> Mc Graw Hill Interamericana.',
       link: '',
     },
     {
       referencia:
-        'Decreto 3743 de 1950. [Ministerio de Gobierno]. Por el cual se modifica el Decreto número 2663 de 1950, sobre Código Sustantivo del Trabajo. Diciembre 20 de 1950. DO. Nº 27.504.',
+        'Decreto 3743 de 1950. [Ministerio de Gobierno]. <em>Por el cual se modifica el Decreto número 2663 de 1950, sobre Código Sustantivo del Trabajo.</em> Diciembre 20 de 1950. DO. Nº 27.504.',
       link:
         'https://www.redjurista.com/Documents/decreto_3743_de_1950_poder_ejecutivo.aspx#/',
     },
     {
       referencia:
-        'Dessler, G. (2009). Administración de recursos humanos (11 ed.). Pearson Educación.',
+        'Dessler, G. (2009). <em>Administración de recursos humanos (11 ed.).</em> Pearson Educación.',
       link: '',
     },
     {
       referencia:
-        'Dolan, S., Valle, R. y López, A. (2014). La gestión de personas y del talento. La gestión de los recursos humanos en el siglo XXI. McGraw-Hill',
+        'Dolan, S., Valle, R. y López, A. (2014). <em>La gestión de personas y del talento. La gestión de los recursos humanos en el siglo XXI.</em> McGraw-Hill',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7590',
     },
     {
       referencia:
-        'EAE Business School. (2017). Medios y canales para la comunicación interna corporativa.',
+        'EAE Business School. (2017). <em>Medios y canales para la comunicación interna corporativa.</em>',
       link:
         'https://www.eae.es/actualidad/noticias/medios-y-canales-para-la-comunicacion-interna-corporativa',
     },
     {
       referencia:
-        'Economía desde casa. (2021). La comunicación interna y sus tipos. [Video] YouTube.',
+        'Economía desde casa. (2021).<em>La comunicación interna y sus tipos.</em> [Video] YouTube.',
       link: 'https://www.youtube.com/watch?v=BcnNHFIaRgI',
     },
     {
       referencia:
-        'Giraldo, L. (2018). Tipos de contratos en Colombia. ALIMENTOS.',
+        'Giraldo, L. (2018). <em>Tipos de contratos en Colombia.</em> ALIMENTOS.',
       link: 'https://www.revistaialimentos.com/tipos-de-contratos-en-colombia/',
     },
     {
       referencia:
-        'Gonzáles, Mármol. A, (2010) ¿Por qué es tan importante hoy la evaluación del desempeño del personal? Revista Debates IESA , volumen XV . Número 2.',
+        'Gonzáles, Mármol. A, (2010) <em>¿Por qué es tan importante hoy la evaluación del desempeño del personal? Revista Debates IESA</em> , volumen XV . Número 2.',
       link:
         'http://virtual.iesa.edu.ve/servicios/wordpress/wp-content/uploads/2013/09/a-10marmol.pdf',
     },
     {
       referencia:
-        'Grados, J. (2013). Reclutamiento, selección, contratación e inducción del personal. Editorial El Manual Moderno.',
+        'Grados, J. (2013). <em>Reclutamiento, selección, contratación e inducción del personal.</em> Editorial El Manual Moderno.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=1398',
     },
     {
       referencia:
-        'Koontz, H. y Weihvich, H. (2018) Administración una Perspectiva Global, 12. ed. Mc Graw-Hill.',
+        'Koontz, H. y Weihvich, H. (2018) <em>Administración una Perspectiva Global</em>, 12. ed. Mc Graw-Hill.',
       link: '',
     },
     {
       referencia:
-        'Pascual Bravo Virtual. (2021). Liderazgo y trabajo en equipo. [Video] YouTube.',
+        'Pascual Bravo Virtual. (2021). <em>Liderazgo y trabajo en equipo.</em> [Video] YouTube.',
       link: 'https://www.youtube.com/watch?v=_rPJ_eZzlcw',
     },
     {
       referencia:
-        'Rubio, G., López, L. y Parra, M. (2020). Gerencia del talento humano. Ediciones de la U.',
+        'Rubio, G., López, L. y Parra, M. (2020). <em>Gerencia del talento humano.</em> Ediciones de la U.',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=11716',
     },
   ],

@@ -79,7 +79,7 @@
         .titulo-icono__texto: h4.text-white.mb-0 Evaluación de desempeño por competencias
       .row.justify-content-center
         .col-lg-7.mb-lg-0.mb-3
-          p Constituye el proceso por el cual se estima el rendimiento global del empleado, posibilita que sea evaluado por todo el entorno: pares, jefes, colaboradores, clientes, proveedores, etc., y se pone el énfasis en que cada persona no es competente para todas las tareas y no está igualmente interesada en todas las clases de tareas. En ocasiones se conoce como feedback o evaluación de varias fuentes.
+          p Constituye el proceso por el cual se estima el rendimiento global del empleado, posibilita que sea evaluado por todo el entorno: pares, jefes, colaboradores, clientes, proveedores, etc., y se pone el énfasis en que cada persona no es competente para todas las tareas y no está igualmente interesada en todas las clases de tareas. En ocasiones se conoce como #[em feedback] o evaluación de varias fuentes.
             br
             br
             | Este tipo de evaluación se realiza con base en las competencias que evalúa, las competencias individuales y grupales de los colaboradores y su finalidad principal es medir el desempeño de cada integrante de la organización en las competencias propias de su puesto de trabajo. 
@@ -108,14 +108,13 @@
               i.fas.fa-tshirt(style="color: #9B1F36")
               p.mb-0 Ser revisados periódicamente para potenciar ciertas acciones o mejorar aquellas que deben ser corregidas.
         p Explore el Anexo Formato Evaluacion Desempeño y afiance sus conocimientos sobre la evaluación de desempeño por objetivos. Tenga en cuenta que, en este recurso, usted encontrará aspectos clave para su apropiada comprensión de este tema y temas posteriores.
-        //todo! Adjuntar anexo 
         .row.justify-content-center.mb-5
           .col-auto
-            a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/Anexo_4_DesempenoDeAreasFuncionales.pdf')" target="_blank" type="application/pdf")
+            a.boton(:href="obtenerLink('downloads/Anexo_4_DesempenoDeAreasFuncionales.pdf')" target="_blank" type="application/pdf" style="background-color:#f4f9ff ")
               .anexo__icono
                 img(src="@/assets/template/icono-xml.svg")
               .anexo__texto
-                p #[b Anexo.] Formato Evaluacion Desempeño
+                p.mx-5(style="color: #12265d") #[b(style="color: #12265d") Anexo.] Formato Evaluacion Desempeño
 
 
 

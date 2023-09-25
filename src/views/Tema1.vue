@@ -22,7 +22,8 @@
         h4: span.color-acento-contenido Importante
         p Estos cambios han influido directamente en cómo nombrar a aquellas áreas de una organización que son las encargadas de gestionar el talento humano. En muchas empresas, instituciones u organizaciones cambiaron el término de Recursos Humanos (RRHH) al de Administración de Recursos Humanos (ARH), Gestión del Talento Humano (GTH), gestión de asociados o colaboradores, administración de capital humano o intelectual (Chiavenato, 2020); estos nombres van alineados a las nuevas tendencias en cuanto a la interacción de los integrantes con una empresa, que conlleve a una productividad óptima y donde la labor de un ser humano sea reconocida y le signifique condiciones de calidad de vida digna.
         .p-4(style="background-color: #FAD1D9 ")
-          p.mb-0 Gestión del Talento Humano (GTH) Campo relacionado con la misión, visión, mentalidad, cultura corporativa y valores que predominan en cada organización, que dependen de la estructura organizacional, cultura corporativa, características del mercado y del negocio propio de una organización, tecnología, procesos internos y estilo de administración, caracterizado por el grupo de personas que la conforman (Chiavenato, 2020). 
+          h4 Gestión del Talento Humano (GTH) 
+          p.mb-0 Campo relacionado con la misión, visión, mentalidad, cultura corporativa y valores que predominan en cada organización, que dependen de la estructura organizacional, cultura corporativa, características del mercado y del negocio propio de una organización, tecnología, procesos internos y estilo de administración, caracterizado por el grupo de personas que la conforman (Chiavenato, 2020). 
             br
             br
             |Es el área que suma y construye talentos a través de un grupo integrado de procesos, con el objetivo de administrar y aumentar el capital humano de las diferentes organizaciones. Al llamarse gestión del talento, tiene como misión gestionar el talento de todos los integrantes, el que posee cada uno, y no la gestión de la persona como tal.
@@ -30,11 +31,11 @@
     .row.justify-content-center.mb-5
       .col-lg-10
         .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-          h5 Tabla 1
-          br
-          span.fst-italic  Saltos graduales en el área de gestión del talento humano
+          h5 Tabla 1.
+          span  Saltos graduales en el área de gestión del talento humano
         .tabla-a.mb-5
           table
+            caption Nota. Chiavenato (2020, p. 109).
             thead(style="border-top: 0px; background-color: #FC9264")
               tr
                 th ANTES
@@ -92,7 +93,7 @@
             ul.lista-ul--color
               li.d-flex
                 i.fas.fa-tshirt(style="color: #9F0925")
-                p.mb-0 Los incentivos financieros y de reconocimiento por la labor (aumentos, bonificaciones, días vacacionales extras, horas libres, etc). 
+                p.mb-0 Los incentivos financieros y de reconocimiento por la labor (aumentos, bonificaciones, días vacacionales extras, horas libres, etc.)
               li.d-flex
                 i.fas.fa-tshirt(style="color: #9F0925")
                 p.mb-0 Espacios de conciliación laboral. 
@@ -211,7 +212,7 @@
           .tarjeta(style="background-color: #D2D7E3").d-flex.align-items-center
             .p-4
               h5 1. Agregar talentos y competencias: 
-              p reclutamiento y selección de personal. Genera tener talentos excelentes.
+              p Reclutamiento y selección de personal. Genera tener talentos excelentes.
       .col-lg-5.mb-lg-0.mb-3
         .tarjeta-avatar-b.mb-5.h-100
           .tarjeta-avatar-b__img
@@ -219,7 +220,7 @@
           .tarjeta(style="background-color: #D2D7E3").d-flex.align-items-center
             .p-4
               h5 2. Incentivar el compromiso de las personas y equipos de la organización:
-              p socialización organizacional, salud y calidad de vida en el trabajo. Genera talentos comprometidos.
+              p Socialización organizacional, salud y calidad de vida en el trabajo. Genera talentos comprometidos.
     .row.justify-content-center.mb-lg-3
       .col-lg-5.mb-lg-0.mb-3
         .tarjeta-avatar-b.mb-5.h-100
@@ -228,7 +229,7 @@
           .tarjeta(style="background-color: #D2D7E3").d-flex.align-items-center
             .p-4
               h5 3. Utilizar talentos y competencias: 
-              p relación con los talentos, diseño del trabajo y gestión del desempeño de los integrantes de la organización. Genera talentos emprendedores.
+              p Relación con los talentos, diseño del trabajo y gestión del desempeño de los integrantes de la organización. Genera talentos emprendedores.
       .col-lg-5.mb-lg-0.mb-3
         .tarjeta-avatar-b.mb-5.h-100
           .tarjeta-avatar-b__img
@@ -236,7 +237,7 @@
           .tarjeta(style="background-color: #D2D7E3").d-flex.align-items-center
             .p-4
               h5 4. Recompensar talentos y a los equipos: 
-              p remuneraciones, incentivos, prestaciones y seguridad social. Genera talentos motivados.
+              p Remuneraciones, incentivos, prestaciones y seguridad social. Genera talentos motivados.
     .row.justify-content-center.mb-lg-3
       .col-lg-5.mb-lg-0.mb-3
         .tarjeta-avatar-b.mb-5.h-100
@@ -245,7 +246,7 @@
           .tarjeta(style="background-color: #D2D7E3").d-flex.align-items-center
             .p-4
               h5 5. Desarrollar los talentos, los equipos y las organizaciones:
-              p capacitaciones, desarrollo de talentos y de organizaciones. Genera talentos competentes.
+              p Capacitaciones, desarrollo de talentos y de organizaciones. Genera talentos competentes.
       .col-lg-5.mb-lg-0.mb-3
         .tarjeta-avatar-b.mb-5.h-100
           .tarjeta-avatar-b__img
@@ -253,12 +254,11 @@
           .tarjeta(style="background-color: #D2D7E3").d-flex.align-items-center
             .p-4
               h5 6. Vigilar los talentos: 
-              p banco de datos y de talentos, sistemas de información gerencial. Genera talentos conocidos.
-    p.mb-5(data-aos='fade-right') La siguiente figura le muestra los procesos de la gestión del talento humano; detállelos y, si le es posible, tome nota de lo más destacado en su libreta personal de apuntes:
+              p Banco de datos y de talentos, sistemas de información gerencial. Genera talentos conocidos.
+    p.mb-5(data-aos='fade-right') La siguiente figura muestra los procesos de la gestión del talento humano; detállelos y, si le es posible, tome nota de lo más destacado en su libreta personal de apuntes:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
       h5 Figura 1
-      br
-      span.fst-italic Procesos de la gestión del talento humano
+      span Procesos de la gestión del talento humano
     img(src='@/assets/curso/temas/tema1/16.svg', alt='Esquema que muestra los 6 procesos para la gestión del talento humano y las acciones o ámbitos específicos, así:<br> Proceso para agregar talentos y competencias, relacionado con reclutamiento y selección.<br>Proceso para comprometer al personal y los equipos, relacionado con socialización organizacional, salud y calidad de vida en el trabajo.<br>Procesos para utilizar talentos y competencias, relacionado con diseño del trabajo, gestión del desempeño y la relación con los talentos mismos.<br>Procesos para recompensar talentos y equipos, relacionado con remuneraciones, incentivos, prestaciones y seguridad social.<br>Procesos el desarrollo de los talentos, los equipos y las organizaciones, relacionado con capacitación, desarrollo de talentos y organizaciones.<br>Procesos para vigilancia a los talentos, relacionado con Bancos de datos y sistemas de información.').mb-4
     p.mb-5(data-aos='fade-right') Estos procesos hacen que la GTH se conforme como un sistema integrado, visto desde el reclutamiento de talentos, la recompensa de talentos, el desarrollo, el compromiso, el monitoreo y la utilización de los talentos dentro de las organizaciones.
 
