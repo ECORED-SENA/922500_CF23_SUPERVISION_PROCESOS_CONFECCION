@@ -38,8 +38,8 @@
             caption Nota. Chiavenato (2020, p. 109).
             thead(style="border-top: 0px; background-color: #FC9264")
               tr
-                th ANTES
-                th AHORA
+                th Antes
+                th Ahora
             
             tbody.text-center
               tr
@@ -257,7 +257,7 @@
               p Banco de datos y de talentos, sistemas de información gerencial. Genera talentos conocidos.
     p.mb-5(data-aos='fade-right') La siguiente figura muestra los procesos de la gestión del talento humano; detállelos y, si le es posible, tome nota de lo más destacado en su libreta personal de apuntes:
     .titulo-sexto.color-acento-contenido(data-aos='fade-right')
-      h5 Figura 1
+      h5 Figura 1.
       span Procesos de la gestión del talento humano
     img(src='@/assets/curso/temas/tema1/16.svg', alt='Esquema que muestra los 6 procesos para la gestión del talento humano y las acciones o ámbitos específicos, así:<br> Proceso para agregar talentos y competencias, relacionado con reclutamiento y selección.<br>Proceso para comprometer al personal y los equipos, relacionado con socialización organizacional, salud y calidad de vida en el trabajo.<br>Procesos para utilizar talentos y competencias, relacionado con diseño del trabajo, gestión del desempeño y la relación con los talentos mismos.<br>Procesos para recompensar talentos y equipos, relacionado con remuneraciones, incentivos, prestaciones y seguridad social.<br>Procesos el desarrollo de los talentos, los equipos y las organizaciones, relacionado con capacitación, desarrollo de talentos y organizaciones.<br>Procesos para vigilancia a los talentos, relacionado con Bancos de datos y sistemas de información.').mb-4
     p.mb-5(data-aos='fade-right') Estos procesos hacen que la GTH se conforme como un sistema integrado, visto desde el reclutamiento de talentos, la recompensa de talentos, el desarrollo, el compromiso, el monitoreo y la utilización de los talentos dentro de las organizaciones.
