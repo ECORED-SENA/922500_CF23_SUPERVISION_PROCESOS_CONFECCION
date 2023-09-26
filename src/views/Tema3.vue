@@ -501,9 +501,10 @@
                   h4.mb-1 Proceso de selección en las empresas.
                   p.mb-0.text-small Consulte con atención el archivo que, a continuación, se propone y afiance sus saberes y conocimientos sobre el proceso de selección en las empresas.
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://docs.google.com/document/d/1wD3oByzOhsH4c0oWnUb4DWNBc0hmCOhrMDWG0-nCtyo/edit?usp=sharing" target="_blank")
+                  a.boton.color-acento-botones(:href="obtenerLink('downloads/Anexo_6_ProcesoDeSeleccionEnLasEmpresas.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
+            
 
 
 
