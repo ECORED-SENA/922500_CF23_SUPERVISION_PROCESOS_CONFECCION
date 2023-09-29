@@ -360,99 +360,100 @@
               ul.lista-ul--color
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Organizar
+                  p.mb-0 Organizar.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Planificar
+                  p.mb-0 Planificar.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Seguimiento
+                  p.mb-0 Seguimiento.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Informática
+                  p.mb-0 Informática.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0  Idiomas 
+                  p.mb-0  Idiomas.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0  Compromiso 
+                  p.mb-0  Compromiso. 
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Ética
+                  p.mb-0 Ética.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Comunicación asertiva  
+                  p.mb-0 Comunicación asertiva.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Aprendizaje y desarrollo autónomo  
+                  p.mb-0 Aprendizaje y desarrollo autónomo.  
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0  Flexibilidad 
+                  p.mb-0  Flexibilidad.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Capacidad de adaptación
+                  p.mb-0 Capacidad de adaptación.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Autocontrol  
+                  p.mb-0 Autocontrol.  
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0  Automotivación 
+                  p.mb-0  Automotivación. 
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0   Iniciativa
+                  p.mb-0   Iniciativa.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Capacidad de decisión  
+                  p.mb-0 Capacidad de decisión.  
             .col-lg-6
               ul.lista-ul--color
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Autoconocimiento
+                  p.mb-0 Autoconocimiento.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Creatividad
+                  p.mb-0 Creatividad.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Liderazgo
+                  p.mb-0 Liderazgo.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Influencia sobre otras personas
+                  p.mb-0 Influencia sobre otras personas.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Desarrollo de personas
+                  p.mb-0 Desarrollo de personas.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Análisis y resolución de problemas
+                  p.mb-0 Análisis y resolución de problemas.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Síntesis
+                  p.mb-0 Síntesis.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Reconocimiento de la diversidad
+                  p.mb-0 Reconocimiento de la diversidad.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Multiculturalidad
+                  p.mb-0 Multiculturalidad.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Gestión de proyectos
+                  p.mb-0 Gestión de proyectos.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Proactividad
+                  p.mb-0 Proactividad.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Trabajo en equipo
+                  p.mb-0 Trabajo en equipo.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Negociación y toma de decisiones
+                  p.mb-0 Negociación y toma de decisiones.
                 li.d-flex.mb-0
                   i.fas.fa-tshirt(style="color: #9B1F36")
-                  p.mb-0 Otras que considere cada organización, de acuerdo con el puesto de trabajo
+                  p.mb-0 Otras que considere cada organización, de acuerdo con el puesto de trabajo.
     p.mb-5(data-aos='fade-right') El uso de las herramientas de las que se valen los centros de evaluación depende de si las entrevistas son individuales o grupales y, también, de si necesitan de una medición cualitativa o cuantitativa. 
     .row.justify-content-center.mb-5.g-0
       .col-lg-6.mb-lg-0.mb-3
         .p-5(style="background-color: #E8E8E8 ").h-100
           img(src='@/assets/curso/temas/tema3/27.svg', alt='' style="width: 104px").mb-4
-          h4: span.color-acento-contenido Individuales
+          h4
+            span.color-acento-contenido Individuales
           p 
           ul.lista-ul--color
             li.d-flex.mb-3
@@ -464,7 +465,8 @@
       .col-lg-6.mb-lg-0.mb-3
         .p-5(style="background-color: #FEE7DD ").h-100
           img(src='@/assets/curso/temas/tema3/28.svg', alt='' style="width: 104px").mb-4
-          h4: span.color-acento-contenido 
+          h4
+            span.color-acento-contenido Grupales
           p 
           ul.lista-ul--color
             li.d-flex.mb-3

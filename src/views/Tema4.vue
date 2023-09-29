@@ -11,6 +11,8 @@
       .col-lg-8
         .bloque-texto-d.color-primario.p-4
           .bloque-texto-d__texto.mb-2
+            i.fas.fa-quote-left.text-end(style="color: #9F0925 ")
+            br
             h3.text-regular Después de haber realizado el proceso de reclutamiento y selección en el área de gestión humana, continúa la etapa de la contratación, la cual según Grados (2013) se define como el momento en que se formaliza al candidato como nuevo integrante de la empresa. Por otro lado, según el artículo 22 del Código Sustantivo del Trabajo, se establece que el contrato de trabajo es “aquel por el cual una persona natural se obliga a prestar un servicio personal a otra persona, natural o jurídica, bajo la continuada dependencia o subordinación de la segunda y mediante remuneración” 
             .d-flex.justify-content-end.align-items-center
               .h5.mb-0 (CST, 1951).

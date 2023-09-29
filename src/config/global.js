@@ -191,7 +191,8 @@ export default {
       referencia:
         'Cañaverales International School. (2017). Procedimiento Desvinculación del Personal.',
       tipo: 'PDF',
-      link: '',
+      link:
+        'https://www.canaverales.edu.co/wp-content/uploads/2018/04/PTH-26-Desvinculaci%C3%B3n-de-personal-V5.pdf',
     },
     {
       tema: 'Evaluación de desempeño',
@@ -200,12 +201,7 @@ export default {
       tipo: 'Libro Biblioteca SENA',
       link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=9350&pg=264',
     },
-    {
-      tema: 'Evaluación de desempeño',
-      referencia: 'SENA. (2021). <em>Formato evaluación del desempeño.</em>',
-      tipo: 'Archivo Excel',
-      link: '',
-    },
+
     {
       tema: 'Canales de comunicación',
       referencia:
@@ -356,7 +352,8 @@ export default {
     {
       referencia:
         'Álvarez, G. (2015). <em>Gestión de desvinculación forzada en masa, como mecanismo para evitar la protesta social de los trabajadores.</em> Caso: Amazonic Mad S. R. L. Universidad Andina Simón Bolívar.',
-      link: 'http://repositorio.uasb.edu.bo/handle/54000/1076',
+      link:
+        'http://repositorio.uasb.edu.bo:8080/bitstream/54000/1076/2/2015-040T-EC02.pdf  ',
     },
     {
       referencia:
@@ -368,7 +365,7 @@ export default {
       referencia:
         'Arroyo Tovar, R. (2012). <em>Habilidades gerenciales: desarrollo de destrezas, competencias y actitud–.</em> Ecoe Ediciones',
       link:
-        'https://www-digitaliapublishing-com.bdigital.sena.edu.co/visor/29968',
+        'https://www.ecoeediciones.com/wp-content/uploads/2018/02/Habilidades-gerenciales.pdf',
     },
     {
       referencia:
@@ -479,58 +476,58 @@ export default {
         {
           nombre: 'Paola Angélica Castro Salazar',
           cargo: 'Experta temática',
-          centro: 'Centro Regional Antioquia',
+          centro: 'Regional Antioquia - Diseño, confección y moda ',
         },
         {
           nombre: 'María Camila Álvarez Trujillo',
           cargo: 'Experta temática',
-          centro: 'Centro Regional Antioquia',
+          centro: 'Regional Antioquia - Diseño, confección y moda ',
         },
         {
           nombre: 'Liliana María Ceballos Gutiérrez',
           cargo: 'Asesora metodóloga Diseño y desarrollo curricular',
-          centro: 'Diseño, confección y moda -  Regional Antioquia',
+          centro: 'Regional Antioquia - Diseño, confección y moda ',
         },
         {
           nombre: 'Pedro Luis Sossa Ramírez',
           cargo: 'Diseño y desarrollo curricular',
-          centro: 'Diseño, confección y moda - Regional Antioquia',
+          centro: 'Regional Antioquia - Diseño, confección y moda',
         },
         {
           nombre: 'Fernelis Mauricio Echeverri',
           cargo: 'Experto temático',
-          centro: 'Diseño, confección y moda - Regional Antioquia',
+          centro: 'Regional Antioquia - Diseño, confección y moda',
         },
         {
           nombre: 'Vilma Perilla',
           cargo: 'Diseñadora Instruccional',
-          centro: 'Centro de Gestión Industria - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Gestión Industria ',
         },
         {
           nombre: 'Ana Catalina Córdoba Sus',
           cargo: 'Metodóloga para la formación virtual',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología ',
         },
         {
           nombre: 'Darío González',
           cargo: 'Corrección de estilo',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología ',
         },
         {
           nombre: 'Alix Cecilia Chinchilla Rueda',
           cargo: 'Asesora Metodológica',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología ',
         },
         {
           nombre: 'Jhon Jairo Rodríguez Pérez',
           cargo: 'Corrector de estilo',
-          centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología ',
         },
         {
           nombre: 'Fabián Leonardo Correa Díaz',
           cargo: 'Diseñador Instruccional',
           centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura ',
         },
       ],
     },
@@ -550,7 +547,7 @@ export default {
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
         },
         {
-          nombre: 'Nombre',
+          nombre: 'Carlos Eduardo Garavito Parada',
           cargo: 'Animador y Producción audiovisual',
           centro:
             'Regional Santander - Centro Industrial del Diseño y la Manufactura',
