@@ -110,7 +110,7 @@
         p Explore el Anexo Formato Evaluacion Desempeño y afiance sus conocimientos sobre la evaluación de desempeño por objetivos. Tenga en cuenta que, en este recurso, usted encontrará aspectos clave para su apropiada comprensión de este tema y temas posteriores.
         .row.justify-content-center.mb-5
           .col-auto
-            a.boton(:href="obtenerLink('downloads/Anexo_3_ForamatoEvaluaciónDesempeno.xml')" target="_blank" type="application/pdf" style="background-color:#f4f9ff ")
+            a.boton(:href="obtenerLink('downloads/Anexo_3_ForamatoEvaluaciónDesempeno.xlsx')" target="_blank" type="application/pdf" style="background-color:#f4f9ff ")
               .anexo__icono
                 img(src="@/assets/template/icono-xml.svg")
               .anexo__texto

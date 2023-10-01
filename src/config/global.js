@@ -167,12 +167,6 @@ export default {
     },
     {
       tema: 'Selección de personal',
-      referencia: 'Selección de personal',
-      tipo: 'PDF',
-      link: '',
-    },
-    {
-      tema: 'Selección de personal',
       referencia:
         'Filosofía y educación para todos. (2017). Gestión del talento humano por competencias [Video]. YouTube.',
       tipo: 'Video',
@@ -221,9 +215,9 @@ export default {
       tema: 'Canales de comunicación',
       referencia:
         'Arroyo Tovar, R. (2012). <em>Habilidades gerenciales: desarrollo de destrezas, competencias y actitud.</em> Ecoe Ediciones.',
-      tipo: 'Libro Biblioteca SENA',
+      tipo: 'PDF',
       link:
-        'https://www-digitaliapublishing-com.bdigital.sena.edu.co/visor/29968',
+        'https://www.ecoeediciones.com/wp-content/uploads/2018/02/Habilidades-gerenciales.pdf',
     },
   ],
   glosario: [
@@ -375,7 +369,7 @@ export default {
     },
     {
       referencia:
-        'Bizneo HR Software. (2019a). <em>>6 desafíos de la gestión del capital humano en RR.HH.</em Bizneo blog.',
+        'Bizneo HR Software. (2019a). <em>6 desafíos de la gestión del capital humano en RR.HH.</em> Bizneo blog.',
       link:
         'https://www.bizneo.com/blog/6-retos-y-tendencias-de-la-gestion-de-recursos-humanos/',
     },
@@ -421,11 +415,7 @@ export default {
         'Economía desde casa. (2021).<em>La comunicación interna y sus tipos.</em> [Video] YouTube.',
       link: 'https://www.youtube.com/watch?v=BcnNHFIaRgI',
     },
-    {
-      referencia:
-        'Giraldo, L. (2018). <em>Tipos de contratos en Colombia.</em> ALIMENTOS.',
-      link: 'https://www.revistaialimentos.com/tipos-de-contratos-en-colombia/',
-    },
+
     {
       referencia:
         'Gonzáles, Mármol. A, (2010) <em>¿Por qué es tan importante hoy la evaluación del desempeño del personal? Revista Debates IESA</em> , volumen XV . Número 2.',
